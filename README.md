@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- PRO TYPING BANNER -->
-  <a href="https://github.com/Ancilin">
+  <a href="https://ancilin.github.io/Portfolio/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%90%8B%2C+I'm+Ancilin!;Full-Stack+Software+Engineer;Java+%26+Spring+Boot+Architect;Python+Automation+%26+Systems+Engineer;Blockchain+%26+Enterprise+Solutions" alt="Ancilin Typing Header" />
   </a>
 
@@ -18,8 +18,8 @@
     <a href="https://github.com/Ancilin?tab=repositories">
       <img src="https://img.shields.io/badge/Repositories-8+-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
-    <a href="https://github.com/Ancilin">
-      <img src="https://img.shields.io/badge/Status-Open_For_Opportunities-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+    <a href="https://ancilin.github.io/Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-Visit_Website-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
     </a>
   </p>
 
@@ -44,12 +44,14 @@
 Developer_Profile:
   Name: Ancilin
   Role: Full-Stack Software Engineer & Systems Architect
+  Live_Portfolio: https://ancilin.github.io/Portfolio/
   Passions: Enterprise Application Development, Blockchain Ledger Systems, Process Automation
   Current_Focus: Scalable Microservices, High-Throughput REST APIs & Modern Frontend Interfaces
   Location: Tamil Nadu, India
   Status: Open for Full-Time Roles & High-Impact Engineering Projects
 ```
 
+- 🌐 **Live Portfolio Website**: [ancilin.github.io/Portfolio](https://ancilin.github.io/Portfolio/)
 - 🔭 **Currently Building**: Full-stack enterprise web platforms & tamper-proof blockchain voting systems.
 - ⚡ **Backend Mastery**: High-concurrency Java applications, Spring Boot microservices, and Python automation engines.
 - 🎨 **Frontend Crafting**: Modern UI/UX interfaces with responsive layouts and interactive dashboards.
@@ -175,15 +177,6 @@ Developer_Profile:
   </a>
 </div>
 
-<br />
-
-<!-- DYNAMIC ACTIVITY GRAPH -->
-<div align="center">
-  <a href="https://github.com/Ancilin">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ancilin&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="100%" />
-  </a>
-</div>
-
 ---
 
 ### 🤝 Connect & Collaboration
@@ -193,8 +186,8 @@ Developer_Profile:
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Ancilin/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://ancilin.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Live Website" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ancilin" target="_blank">
