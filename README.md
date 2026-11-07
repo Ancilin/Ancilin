@@ -27,15 +27,6 @@
 
 <br />
 
-<!-- GITHUB TROPHIES SECTION -->
-<div align="center">
-  <a href="https://github.com/Ancilin">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ancilin&theme=tokyonight&no-frame=true&row=1&column=6" alt="Ancilin GitHub Trophies" />
-  </a>
-</div>
-
-<br />
-
 ---
 
 ### 🚀 About Me
@@ -153,27 +144,27 @@ Developer_Profile:
 ### 📈 GitHub Analytics Dashboard
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/Ancilin">
-          <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Ancilin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ancilin's GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ancilin">
-          <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancilin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Ancilin">
+    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ancilin&show_icons=true&theme=tokyonight&hide_border=true" alt="Ancilin's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Ancilin">
+    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ancilin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://github.com/Ancilin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ancilin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ancilin&theme=tokyonight" alt="GitHub Contribution Summary" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Ancilin">
+    <img src="https://streak-stats.demolab.com/?user=Ancilin&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
   </a>
 </div>
 
